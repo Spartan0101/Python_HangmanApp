@@ -1,7 +1,12 @@
 import random
-from replit import clear
 import art
 import words
+#import os
+from replit import clear
+
+#def cls():
+    #os.system('cls' if os.name == 'nt' else 'clear')
+
 
 print(art.logo)
 
